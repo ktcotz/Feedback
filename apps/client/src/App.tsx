@@ -1,3 +1,21 @@
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { Home } from "./pages/Home";
+import { Routes } from "./typing/routes";
+import { Root } from "./pages/Root";
+
+const router = createBrowserRouter([
+  {
+    path: Routes.Home,
+    element: <Root />,
+    children: [
+      {
+        path: "",
+        element: <Home />,
+      },
+    ],
+  },
+]);
+
 export const App = () => {
-  return <h1>Hello Turbo!</h1>;
+  return <RouterProvider router={router} />;
 };
