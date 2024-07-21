@@ -392,3 +392,11 @@
 2024-07-12T19:43:25.289586Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("apps\\client") }}))
 2024-07-12T19:43:27.484026Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\f8c4a917dacb8b14-turbo.log.2024-07-12")}
 2024-07-12T19:43:27.484041Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-12T19:43:32.588559Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\f8c4a917dacb8b14-turbo.log.2024-07-12")}
+2024-07-12T19:43:32.588579Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-12T19:43:34.884455Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("todo.md")}
+2024-07-12T19:43:34.884468Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-12T19:43:37.583150Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\f8c4a917dacb8b14-turbo.log.2024-07-12")}
+2024-07-12T19:43:37.583165Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-12T19:43:38.883360Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\f8c4a917dacb8b14-turbo.log.2024-07-12")}
+2024-07-12T19:43:38.883375Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))

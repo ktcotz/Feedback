@@ -3,7 +3,7 @@ import { useEffect } from "react";
 export const App = () => {
   useEffect(() => {
     const fetchData = async () => {
-      const res = await fetch("http://localhost:3000/api");
+      const res = await fetch("http://localhost:3000");
 
       const data = await res.text();
 
